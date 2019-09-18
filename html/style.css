@@ -1,1 +1,26 @@
-﻿
+﻿*{
+    margin : 0px;
+    padding: 0px;
+}
+
+
+div{
+    background-color: blue;
+    height: 50vh;
+    width : 30%;
+    margin : auto;
+}
+
+
+h1{
+    font-size : 70px;
+    margin : auto;
+    text-align: center;
+    padding : 20px;
+}
+
+form{
+    display: inline-block ;
+
+}
+
